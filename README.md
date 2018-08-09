@@ -1,5 +1,5 @@
 # OS-SHELL
-Shell Command Line in c++
+Shell Command Line in c
 
 
 
